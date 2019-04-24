@@ -33,7 +33,7 @@
 { "name" : "create-helm-chart", "url": "https://github.com/codefresh-contrib/cfstep-helm"},
 { "name" : "k8s-canary-deployment", "url" : "https://github.com/codefresh-contrib/k8s-canary-deployment"},
 { "name" : "github-pr-plugin", "url" : "https://github.com/codefresh-contrib/github-pr-plugin"},
-{ "name" : "bitbucket-pr-plugin", "url" : "https://github.com/codefresh-contrib/bitbucket-pr"}],
-{ "name" : "scp-plugin", "url" : "https://github.com/codefresh-io/scp-plugin"}],
-{ "name" : "webhook-plugin", "url" : "https://github.com/codefresh-io/webhook-plugin"}],
+{ "name" : "bitbucket-pr-plugin", "url" : "https://github.com/codefresh-contrib/bitbucket-pr"},
+{ "name" : "scp-plugin", "url" : "https://github.com/codefresh-io/scp-plugin"},
+{ "name" : "webhook-plugin", "url" : "https://github.com/codefresh-io/webhook-plugin"},
 { "name" : "cfstep-codecommit", "url" : "https://github.com/codefresh-contrib/cfstep-codecommit"}]
