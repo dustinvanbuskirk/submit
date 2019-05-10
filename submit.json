@@ -36,5 +36,5 @@
 { "name" : "bitbucket-pr-plugin", "url" : "https://github.com/codefresh-contrib/bitbucket-pr"},
 { "name" : "scp-plugin", "url" : "https://github.com/codefresh-io/scp-plugin"},
 { "name" : "webhook-plugin", "url" : "https://github.com/codefresh-io/webhook-plugin"},
-{ "name" : "cfstep-codecommit", "url" : "https://github.com/codefresh-contrib/cfstep-codecommit"}],
+{ "name" : "cfstep-codecommit", "url" : "https://github.com/codefresh-contrib/cfstep-codecommit"},
 { "name" : "cfstep-msteams-notifier", "url" : "https://github.com/codefresh-contrib/cfstep-msteams-notifier"}]
